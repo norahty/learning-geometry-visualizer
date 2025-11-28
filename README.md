@@ -1,4 +1,4 @@
-# Trajectory Auditor (InPCA): Measure-Based Visualization of Iterative Algorithm Dynamics
+# Trajectory Auditor: Measure-Based Visualization of Iterative Algorithm Dynamics
 
 **Author:** Nora Han  
 **Status:** Research tool — code available upon request  
